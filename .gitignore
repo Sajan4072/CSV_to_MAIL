@@ -1,0 +1,6 @@
+env
+pws.txt
+emai.csv.txt
+email.csv
+*.pyc
+.env
